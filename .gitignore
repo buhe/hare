@@ -9,3 +9,9 @@
 /hare-data/*.log
 /hare-data/hbase-root-dir
 /hare-data/hbase-zk-data
+/hare-client/bin
+/hare-client/bin
+/hare-data/bin
+/hare-front/bin
+/hare-message/bin
+/hare-omc-enterprice/bin
