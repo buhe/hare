@@ -1,0 +1,11 @@
+/hare-common/bin
+/hare-common/bin
+/hare-handler/bin
+/hare-master/bin
+/hare-common/*.log
+/hare-handler/*.log
+/hare-master/*.log
+/hare-client/*.log
+/hare-data/*.log
+/hare-data/hbase-root-dir
+/hare-data/hbase-zk-data
